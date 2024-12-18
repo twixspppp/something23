@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(15, 15, 28);
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 180px;
+}
+.one{
+    background-color: rgb(72, 68, 68);
+    width: 450px;
+    height: 80px;
+    margin-left: 100px;
+    gap: 6px;
+}
